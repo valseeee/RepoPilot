@@ -1,0 +1,8 @@
+{
+  "name": "dispatch-preview",
+  "private": true,
+  "scripts": {
+    "start": "node src/server.mjs",
+    "diagnose": "node tools/diagnose.mjs"
+  }
+}

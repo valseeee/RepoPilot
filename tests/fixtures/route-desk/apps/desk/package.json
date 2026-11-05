@@ -1,0 +1,7 @@
+{
+  "name": "@desk/cli",
+  "private": true,
+  "dependencies": {
+    "@desk/routes": "1.0.0"
+  }
+}

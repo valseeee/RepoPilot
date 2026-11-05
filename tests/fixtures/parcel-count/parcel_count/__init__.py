@@ -1,0 +1,1 @@
+"""Count nonempty parcel labels."""

@@ -1,0 +1,10 @@
+{
+  "name": "route-desk",
+  "private": true,
+  "packageManager": "npm@10.8.2",
+  "workspaces": ["apps/*", "packages/*"],
+  "scripts": {
+    "start": "node apps/desk/cli.mjs",
+    "test": "node --test apps/desk/desk.test.mjs"
+  }
+}
